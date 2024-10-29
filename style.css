@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Hallowen;
+    src: url(Hallowen.otf);
+}
+
+body {
+    font-family: Hallowen;
+}
